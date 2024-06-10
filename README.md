@@ -2,7 +2,7 @@
 
 # The Freedom of AI Innovation Act
 
-# California Senate Bill No. XXXX
+# California Senate Bill No. 1048
 
 ## An act to promote and regulate the development and use of large language models and interactive AI services in the state of California.
 
@@ -84,5 +84,4 @@ The provisions of this bill shall be implemented and enforced by the relevant St
 
 ### Section 9. Effective Date
 
-This bill shall take effect on January 1, 2025.
-
+(This is a proposal for a senate bill, not an actual bill)
