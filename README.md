@@ -4,7 +4,7 @@
 
 # The Freedom of AI Innovation Act
 
-# California Senate Bill No. 1048
+# California Senate Bill No. 10^48
 ##### Disclaimer: A proposed, not actual senate bill.
 
 ## An act to promote and regulate the development and use of large language models and interactive AI services in the state of California.
