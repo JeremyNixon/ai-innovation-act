@@ -1,4 +1,4 @@
-# California Senate Bill No. 1048
+# California Senate Bill No. 10^48
 (This is a proposal for a senate bill, not an actual bill)
 
 ## An act to promote and regulate the development and use of large language models and interactive AI services in the state of California.
