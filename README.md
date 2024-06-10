@@ -1,4 +1,4 @@
-[Great Seal of the United States (obverse)](https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg)
+![Great Seal of the United States (obverse)](https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg)
 
 # The Freedom of AI Innovation Act
 
