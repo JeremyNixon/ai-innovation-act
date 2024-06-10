@@ -1,4 +1,6 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg" style="display: block; margin: 0 auto;">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg" style="display: block; margin: 0 auto;" height="300">
+</p>
 
 # The Freedom of AI Innovation Act
 
